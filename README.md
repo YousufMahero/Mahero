@@ -9,7 +9,7 @@ I studied Industrial Engineering at METU and pursued my master's degree in Busin
 Email: yusufmahirnartok@gmail.com
 Linkedin:/in/yusufmahirnartok/
 
-### Github Stats
+<h3>Github Stats</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yousufmahero&count_private=false&show_icons=true&hide_border=true&theme=solarized-light" alt="yousufmahero" />
   
