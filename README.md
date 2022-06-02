@@ -1,4 +1,4 @@
-### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 I studied Industrial Engineering at METU and pursued my master's degree in Business Analytics at the University of Edinburgh. I am a **machine learning enthusiast**.
 
